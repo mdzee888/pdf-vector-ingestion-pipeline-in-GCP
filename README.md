@@ -285,5 +285,3 @@ Used by enterprises for:
 ```
 
 ---
-
-Choose the descriptions that best fit your use case! The short description is perfect for GitHub, while the detailed descriptions work well for documentation and marketing materials.
