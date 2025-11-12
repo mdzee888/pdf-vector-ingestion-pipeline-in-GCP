@@ -590,7 +590,3 @@ Before running ingestion:
 - [ ] OCR settings configured (if needed)
 
 ---
-
-**Version**: 1.0  
-**Last Updated**: 2024  
-**License**: Internal Use
