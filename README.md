@@ -6,7 +6,7 @@ The `IngestionFlow` class is a comprehensive document ingestion pipeline that pr
 
 ## 🎯 Key Features
 
-- **PDF Text Extraction**: Extracts text, tables (markdown format), and images from PDFs
+- **PDF/DOCX Text Extraction**: Extracts text, tables (markdown format), and images from PDFs/DOCX
 - **Intelligent OCR Processing**: Automatically detects pages with insufficient text and applies OCR
 - **Image-to-Text Conversion**: Uses Google's Gemini Vision model for image content extraction
 - **Concurrent Processing**: Multi-threaded image processing for improved performance
@@ -590,3 +590,4 @@ Before running ingestion:
 - [ ] OCR settings configured (if needed)
 
 ---
+
